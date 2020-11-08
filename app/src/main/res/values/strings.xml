@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">El-Halso</string>
+    <string name="facebook_application_id">2756767837945268</string>
+    <string name="fb_login_protocol_scheme">fb2756767837945268</string>
+    <string name="google_oauth2_client_id">372906604429-o7bs1okebd150j3rekbei9anq8leehjl.apps.googleusercontent.com</string>
+    <string name="title_activity_initial_distance_slider">Initial_distance_slider</string>
+    <string-array name="categories">
+        <item>Misc</item>
+        <item>Fast Food</item>
+        <item>Restaurant</item>
+        <item>Store</item>
+        <item>Office</item>
+        <item>Grocery Store</item>
+        <item>Furniture</item>
+        <item>Club</item>
+        <item>Electronics</item>
+        <item>Phone Repair</item>
+        <item>Gas Station</item>
+        <item>Fashion Store</item>
+        <item>Barber</item>
+    </string-array>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_maps_tst">Map</string>
+    <string name="settings_radius_welcome">How far would you like the\n search area to be?</string>
+    <string name="done">Done</string>
+    <string name="text_radius_indicator">The radius of the search is: %.1f Km</string>
+    <string name="search_radius">Search Radius</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="user_name">Welcome %s</string>
+    <string name="distance_km">%.1f Km</string>
+    <string name="distance_m_km">%.2f %s</string>
+    <string name="no_favorites_yet">(No favorites yet)</string>
+    <string name="title_activity_business_location">Map</string>
+    <string name="set_location_manually">Set Location Coordinates</string>
+    <string name="set_business_location">Set</string>
+    <string name="category_text">Category: %s</string>
+
+    <string name="reviews_count">(%d reviews)</string>
+</resources>

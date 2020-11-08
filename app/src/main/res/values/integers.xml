@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Max search radius for user in Km -->
+    <integer name="max_radius_km">100</integer>
+</resources>

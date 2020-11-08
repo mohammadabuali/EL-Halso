@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_image_width">125dp</dimen>
+    <dimen name="gallery_image_height">125dp</dimen>
+    <dimen name="gallery_action_button_width">40dp</dimen>
+    <dimen name="gallery_action_button_height">40dp</dimen>
+    <dimen name="business_favorite_height">40dp</dimen>
+    <dimen name="business_favorite_width">40dp</dimen>
+    <dimen name="business_logo_height">100dp</dimen>
+    <dimen name="business_logo_width">100dp</dimen>
+    <integer name="description_text_default_lines">3</integer>
+    <integer name="review_text_default_lines">3</integer>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="user_radius_color">#1AFF0000</color>
+    <color name="text_link_color">#2878DC</color>
+    <color name="text_title_color">#000000</color>
+</resources>
